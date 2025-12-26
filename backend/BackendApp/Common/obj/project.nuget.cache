@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59s12PF5qyU=",
+  "success": true,
+  "projectFilePath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/artemmazurenko/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

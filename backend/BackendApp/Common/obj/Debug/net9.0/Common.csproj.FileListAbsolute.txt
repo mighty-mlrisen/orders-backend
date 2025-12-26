@@ -1,0 +1,13 @@
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/bin/Debug/net9.0/Common.deps.json
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/bin/Debug/net9.0/Common.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/bin/Debug/net9.0/Common.pdb
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.csproj.AssemblyReference.cache
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.csproj.CoreCompileInputs.cache
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.sourcelink.json
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/refint/Common.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/Common.pdb
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/Debug/net9.0/ref/Common.dll

@@ -1,0 +1,12 @@
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/bin/Debug/net9.0/Models.deps.json
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/bin/Debug/net9.0/Models.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/bin/Debug/net9.0/Models.pdb
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.csproj.CoreCompileInputs.cache
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.sourcelink.json
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/refint/Models.dll
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/Models.pdb
+/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/obj/Debug/net9.0/ref/Models.dll

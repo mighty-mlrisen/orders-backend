@@ -4,6 +4,134 @@
     "/Users/artemmazurenko/orders-backend/backend/BackendApp/WebApi/WebApi.csproj": {}
   },
   "projects": {
+    "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj",
+        "packagesPath": "/Users/artemmazurenko/.nuget/packages/",
+        "outputPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artemmazurenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj",
+        "packagesPath": "/Users/artemmazurenko/.nuget/packages/",
+        "outputPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artemmazurenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/Models.csproj": {
+                "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/artemmazurenko/orders-backend/backend/BackendApp/Migrations/Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -178,6 +306,12 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj": {
+                "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj"
+              },
+              "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj": {
+                "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj"
+              },
               "/Users/artemmazurenko/orders-backend/backend/BackendApp/Migrations/Migrations.csproj": {
                 "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Migrations/Migrations.csproj"
               },
@@ -218,6 +352,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
