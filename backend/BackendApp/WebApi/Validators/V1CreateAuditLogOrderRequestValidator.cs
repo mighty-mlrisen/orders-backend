@@ -7,6 +7,8 @@ public class V1CreateAuditLogOrderRequestValidator : AbstractValidator<V1CreateA
 {
     public V1CreateAuditLogOrderRequestValidator()
     {
+        RuleFor(x => x.Orders).NotEmpty();
+        
         RuleForEach(x => x.Orders).NotNull();
         
         RuleForEach(x => x.Orders).ChildRules(order =>
