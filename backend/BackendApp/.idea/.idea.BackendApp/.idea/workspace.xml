@@ -11,7 +11,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5c326a-a880-4744-a775-8d86c5846b3d" name="Changes" comment="" />
+    <list default="true" id="2d5c326a-a880-4744-a775-8d86c5846b3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BackendApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BackendApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/Consumer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/Consumer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/Consumers/OmsOrderCreatedConsumer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/Consumers/OmsOrderCreatedConsumer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/Consumer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Consumer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Messages/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/BLL/Services/OrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/BLL/Services/OrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/WebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +70,7 @@
     <setting file="file://$PROJECT_DIR$/Consumer/Clients/OmsClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Consumer/Config/RabbitMqSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Consumer/Consumers/OmsOrderCreatedConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Consumer/bin/Debug/net9.0/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Messages/OrderCreatedMessage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Migrations/MigratorRunner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Migrations/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +110,7 @@
     <setting file="file://$PROJECT_DIR$/WebApi/DAL/Repositories/OrderItemRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApi/DAL/Repositories/OrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApi/DAL/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Jobs/OrderGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApi/Validators/V1CreateAuditLogOrderRequestValidator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApi/Validators/V1CreateOrderRequestValidator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApi/Validators/V1QueryOrdersRequestValidator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,7 +139,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "lab3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -197,6 +241,52 @@
       <method v="2">
         <option name="Build" />
       </method>
+    </configuration>
+    <configuration name="Consumer/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="consumer" />
+          <option name="containerName" value="consumer" />
+          <option name="contextFolderPath" value="$PROJECT_DIR$" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8080" />
+                <option name="hostIp" value="127.0.0.1" />
+                <option name="hostPort" value="8080" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="sourceFilePath" value="Consumer/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebApi/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="webapi" />
+          <option name="containerName" value="webapi" />
+          <option name="contextFolderPath" value="$PROJECT_DIR$" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8080" />
+                <option name="hostIp" value="127.0.0.1" />
+                <option name="hostPort" value="8080" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="sourceFilePath" value="WebApi/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="TaskManager">

@@ -94,6 +94,9 @@
               "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj": {
                 "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Common/Common.csproj"
               },
+              "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj": {
+                "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Messages/Messages.csproj"
+              },
               "/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/Models.csproj": {
                 "projectPath": "/Users/artemmazurenko/orders-backend/backend/BackendApp/Models/Models.csproj"
               },
@@ -122,6 +125,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
@@ -415,6 +422,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.1.6, )"
