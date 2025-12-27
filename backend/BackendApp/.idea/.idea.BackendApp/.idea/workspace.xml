@@ -15,44 +15,22 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BackendApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BackendApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/Consumer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/Consumer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/Consumers/OmsOrderCreatedConsumer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/Consumers/OmsOrderCreatedConsumer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/Consumer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Consumer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net9.0/Consumer.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumer/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/Debug/net9.0/Messages.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Messages/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Migrations/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Messages/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Messages/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/Debug/net9.0/Migrations.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Migrations/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/BLL/Services/OrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/BLL/Services/OrderService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/WebApi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,29 +109,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Consumer: http.executor": "Run",
-    ".NET Launch Settings Profile.WebApi: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lab3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Consumer: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.WebApi: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Consumer: http">
     <configuration name="Migrations" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -285,7 +263,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -303,6 +284,7 @@
       <workItem from="1766768379623" duration="3000" />
       <workItem from="1766768413348" duration="1481000" />
       <workItem from="1766770071059" duration="15656000" />
+      <workItem from="1766804954702" duration="36000" />
     </task>
     <servers />
   </component>
